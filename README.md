@@ -1,28 +1,17 @@
-# _cryptosquare_
+# _places-visited_
 
-#### _Simple web page to encrypt a phrase, 12.20.2016_
+#### _Simple web page to store places visited, 12.21.2016_
 
 #### By _**Brent Perry**_
 
 ## Description
 
-_This is a very simple website used to encrypt a message using cryptosquare._
+_This is a very simple website used to store info about places visited._
 
 # Specs
 
-* _Return the message with all punctuation removed._
-  * _Input Example: Why, hello there._
-  * _Output Example: whyhellothere_
-* _Return the correct square size of the message._
-  * _Input Example: Why, hello there._
-  * _Output Example: 4_
-* _Return the correct array of arrays._
-  * _Input Example: Why, hello there._
-  * _Output Example: [[whyh], [ello], [ther], [e]]_
-* _Return encrypted phrase._
-  * _Input Example: Why, hello there._
-  * _Output Example: weteh lhyle hor_
-
+* _Create new object based on input._
+* _Display object info when the name is clicked._
 
 ## Setup/Installation Requirements
 
